@@ -1,7 +1,7 @@
-# dh110
-DH 110 User Interface and Design UCLA Spring 2022
+# Digital Humanities 110 - User Interface and Design
 
-| Week / Assignment  | Topic                                  | 
-| -------------------|----------------------------------------|
-| 1	                 | [Heuristic Evaluation](https://github.com/make-a-mark/dh110/tree/main/Assignment%201)                   |
-| 2 	             | [Usability Testing](https://github.com/make-a-mark/dh110/tree/main/Assignment%202)                      | 
+## Schedule
+| Week | Topic                  | Assignment                                  | 
+| -----|------------------------|---------------------------------------------|
+| 1	   | UX+UI Design & Process |[Heuristic Evaluation](https://github.com/make-a-mark/dh110/tree/main/Assignment%201)                   |
+| 2    | Usability              |[Usability Testing](https://github.com/make-a-mark/dh110/tree/main/Assignment%202)                      | 
