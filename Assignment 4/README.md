@@ -2,7 +2,11 @@
 
 ## Purpose of UX Storytelling 
 
-## Persona + Empathy Maps
-Two tasks you want to propose for the ux design
+## Personas + Empathy Maps
+![Guillermo Del Toro Persona](https://github.com/make-a-mark/dh110/blob/main/Assignment%204/guillermo%20persona.jpg)
 
-TWO of Persona + empathy maps + scenarios + Journey maps 
+![Guillermo Del Toro Empathy Map](https://github.com/make-a-mark/dh110/blob/main/Assignment%204/guillermo%20empathy%20map.jpg)
+
+![Aryo Racho Persona](https://github.com/make-a-mark/dh110/blob/main/Assignment%204/aryo%20persona.jpg)
+
+![Aryo Racho Empathy Map](https://github.com/make-a-mark/dh110/blob/main/Assignment%204/aryo%20empathy%20map.jpg)
