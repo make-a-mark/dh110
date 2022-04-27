@@ -24,4 +24,12 @@ Guillermo decides to use an app that will help to develop his skills and build u
 
 ![Guillermo Del Toro Journey Map](https://github.com/make-a-mark/dh110/blob/main/Assignment%204/guillermo%20journey%20map.jpg)
 
-Scenario 2 - 
+### Feature 2 + Scenario 2 - Aryo learns how to produce his first song
+
+### Why
+Aryo wants to pursue music making. He has a great singing voice, but he's never dabbled in actually writing a song, let alone producing a song! But, he is inspired by his favorite artists from 88 Rising, and everytime one of them drops a new song or album, he always thinks to himself that he wants to do that. So, he decided that now is the time! Taking influence from their style of songs, Aryo wants to incorporate elements and styles from 88 Rising artists and combine it with his own flair to create a sound unique to Aryo. Just like how their music makes him happy, he hopes that his music will make others happy in the same way! 
+
+### How
+Aryo wants to use an app that provides step-by-step tutorials on how to produce a song from scratch. He's hoping that for anything he might find difficult (since he doesn't have an extensive music background), he can utilize the other resources the app provides to train his musical ear and overall develop his musical abilities. Right now, the app utilizes the phone's built-in microphone to record sounds, but he hopes to buy more professional equipment and software in the future once he gains enough skills and confidence!
+
+![Aryo Racho Journey Map](https://github.com/make-a-mark/dh110/blob/main/Assignment%204/aryo%20journey%20map.jpg)
