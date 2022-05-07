@@ -1,4 +1,4 @@
-# Assignment 4 - Low Fidelity Prototype
+# Assignment 5 - Low Fidelity Prototype
 
 ## Project Description
 __Purpose:__ Low-fidelity prototyping allows for a designer to contextualize and visualize how features might work and be laid out before finalizing and diving into the actual development. Understanding these aspects provides insight and feedback as to what does or doesn't work. Prototyping in this way gives a sense of what the final product could look like in an easier, less time-consuming manner. In regards to my project, I hope to tackle problems commonly faced with music learning apps. 
