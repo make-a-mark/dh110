@@ -40,7 +40,7 @@ For the impression test, in addition to general thoughts, I wanted to make sure 
 1. Size of buttons
 2. Color scheme (dark buttons vs lighter buttons)
 
-[Here is the recording of the impression test]()
+[Here is the recording of the impression test](https://drive.google.com/file/d/1_XkbuKP9zV0K5z4w0yP-zPZp-KKajN0e/view?usp=sharing)
 
 After conducting my impression test, the feedback and insight I gained was very valuable. 
 
@@ -50,3 +50,13 @@ After conducting my impression test, the feedback and insight I gained was very 
 ![Color Contrast Check 2](https://github.com/make-a-mark/dh110/blob/main/Assignment%206/Color%20Contrast%20Check%202.JPG)
 
 ## Design System
+__Typography__:
+* body text
+* title text
+* button label
+* sub-title
+* caption
+
+__Color Scheme__:
+
+__Layout__:
