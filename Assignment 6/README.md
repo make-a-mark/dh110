@@ -51,6 +51,7 @@ After conducting my impression test, the feedback and insight I gained was very 
 
 ## Design System
 __Typography__:
+![Text Styles](https://github.com/make-a-mark/dh110/blob/main/Assignment%206/Text%20Styles.JPG)
 * body text
 * title text
 * button label
@@ -58,5 +59,9 @@ __Typography__:
 * caption
 
 __Color Scheme__:
+![Color Styles](https://github.com/make-a-mark/dh110/blob/main/Assignment%206/Color%20Styles.JPG)
 
 __Layout__:
+![Layout Rows](https://github.com/make-a-mark/dh110/blob/main/Assignment%206/Layout%20-%20Rows.JPG)
+
+![Layout Columns](https://github.com/make-a-mark/dh110/blob/main/Assignment%206/Layout%20-%20Columns.JPG)
