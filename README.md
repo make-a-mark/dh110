@@ -10,4 +10,4 @@ Week  | Topic                  | Assignment
 4     | UX Storytelling        |[Persona + Usage Scenario](https://github.com/make-a-mark/dh110/tree/main/Assignment%204)
 5     | Low Fidelity Prototype |[Low Fidelity Prototype](https://github.com/make-a-mark/dh110/tree/main/Assignment%205)
 6     | Interface Design       |[Interface Design System](https://github.com/make-a-mark/dh110/tree/main/Assignment%206)  
-7     | High Fidelity Prototype + Iterative Process|[High Fidelity Prototype](https://github.com/make-a-mark/dh110/tree/main/Assignment%207)  
+7 + 8     | High Fidelity Prototype + Iterative Process|[High Fidelity Prototype](https://github.com/make-a-mark/dh110/tree/main/Assignment%207)  
