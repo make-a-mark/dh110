@@ -11,7 +11,7 @@ Understanding that not every user is the same, this app provides recommendations
 To get a sense of what is already being done, I conducted heuristic evaluations and usability testing. 
 
 ### Heuristic Evaluations
-
+For heuristic evaluations, I conducted case studies on two music-learning apps - [Yousician](https://yousician.com/) and [Earpeggio](https://earpeggio.com/) - to understand what they are doing well and what they aren't doing well in regards to the [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/). I saw that Yousician had strength in its variety of lessons, while Earpeggio helps  
 
 ### Usability Testing
 
