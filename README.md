@@ -36,7 +36,7 @@ The user research I conducted focued on middle-aged males who are interested in 
 ![Wireframes + Wireflows](https://raw.githubusercontent.com/make-a-mark/dh110/master/Assignment%205/Wireframes%20%2B%20Wireflow.JPG)
 
 ## Wireframe and Graphic Design Element Variation
-For the overall graphical interface design, I wanted to have a clean, easy-on-the-eyes look and feel. There are a mix of warm and cool colors, but there's nothing very intrusive or popping out as much. I want the music learning experience to be relaxing and enjoyable, and I thought having something that is easy to stare at can help support that goal. I arrived at these stylistic decisions by comparing different design element variations.[Read more here!](https://github.com/make-a-mark/dh110/tree/main/Assignment%206)
+For the overall graphical interface design, I wanted to have a clean, easy-on-the-eyes look and feel. There are a mix of warm and cool colors, but there's nothing very intrusive or popping out as much. I want the music learning experience to be relaxing and enjoyable, and I thought having something that is easy to stare at can help support that goal. I arrived at these stylistic decisions by comparing different design element variations. [Read more here!](https://github.com/make-a-mark/dh110/tree/main/Assignment%206)
 
 <table>
   <tr>
@@ -63,8 +63,13 @@ After completing ideation with the low fidelity prototype and making stylistic d
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FRCKmmLJnkKoHWlwSmUGNZe%2FDH-110-Interface-Design-System%3Fnode-id%3D12%253A86%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D12%253A86" allowfullscreen></iframe>
 
 ## Pitch Video
+*add here*
 
 ## Conclusion
+This process was a great introduction to the world of UI/UX research and design. As someone with a more technical background in computer engineering, it was great to learn how to approach these types of problems from a design perspective! I especially appreciated that we got hand-on learning by practicing these UX design methods. I never really realized how much thought goes into human-centric design, and there's a lot of depth when it comes to researching, testing, evaluating, and communicating user experience design choices. It was my first time conducting interviews for usability testing and contextual inquiries, and I can say that it is a lot of hard, meticulous work to understand the product from the user's perspective. But, it is that dedication and craft that allows for user interactions and experiences to be curated in a wonderful way. 
+
+Reflecting on my specific app, I think generalizing the "fix-all" solution to  cater to each individual's needs for music learning is a grand task. In hindsight, had I chosen one specific aspect of music to improve, I think would have been easier. But, I did come to my pain point by listening to real users, so it was still a very cool challenge to tackle. Nonetheless, I very much enjoyed my journey through this class, and I picked up very useful skills and knowledge along the way!
+
 
 ## Schedule
 
