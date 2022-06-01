@@ -31,6 +31,7 @@ UX storytelling allows for a more personal feel. By understanding the user's per
   </tr>
 </table>
 
+## Wireframe and Graphic Design Element Variation
 
 ## Schedule
 
