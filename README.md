@@ -47,7 +47,20 @@ For the overall graphical interface design, I wanted to have a clean, easy-on-th
 
 
 ## High Fidelity Prototype
+After completing ideation with the low fidelity prototype and making stylistic design element choices, I put it all together in a high fidelity prototype using figma. Again, the two main features/tasks are:
+
+1. Practice a skill (including other resources)
+2. View/edit goals + progress
+
+[Read more here!](https://github.com/make-a-mark/dh110/tree/main/Assignment%207)
+
+### Figma File
+
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FRCKmmLJnkKoHWlwSmUGNZe%2FDH-110-Interface-Design-System%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+
+### Figma Prototype
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FRCKmmLJnkKoHWlwSmUGNZe%2FDH-110-Interface-Design-System%3Fnode-id%3D12%253A86%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D12%253A86" allowfullscreen></iframe>
 
 ## Pitch Video
 
