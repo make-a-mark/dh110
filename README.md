@@ -63,7 +63,10 @@ After completing ideation with the low fidelity prototype and making stylistic d
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FRCKmmLJnkKoHWlwSmUGNZe%2FDH-110-Interface-Design-System%3Fnode-id%3D12%253A86%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D12%253A86" allowfullscreen></iframe>
 
 ## Pitch Video
-*add here*
+
+<iframe src="https://drive.google.com/file/d/1mI0zpIfGWttfaPQpLG6bgV588lhwuItf/preview"></iframe>
+
+[Watch here!](https://drive.google.com/file/d/1mI0zpIfGWttfaPQpLG6bgV588lhwuItf/view?usp=sharing)
 
 ## Conclusion
 This process was a great introduction to the world of UI/UX research and design. As someone with a more technical background in computer engineering, it was great to learn how to approach these types of problems from a design perspective! I especially appreciated that we got hand-on learning by practicing these UX design methods. I never really realized how much thought goes into human-centric design, and there's a lot of depth when it comes to researching, testing, evaluating, and communicating user experience design choices. It was my first time conducting interviews for usability testing and contextual inquiries, and I can say that it is a lot of hard, meticulous work to understand the product from the user's perspective. But, it is that dedication and craft that allows for user interactions and experiences to be curated in a wonderful way. 
