@@ -20,9 +20,7 @@ Usability testing (UT) is a process within user-centered design (UCD) meant to e
 For user research, the method I utilized is Participation Observation Research. This allows the opportunity to learn from people in context by holding conversations with users in the context of their work. I specifically interviewed/observed Nick Pascua, a self-taught music mixer and producer. By doing so, I was able to gather insights from the their perspective to help better understand and gain inspiration. It was what helped me to realize that music journeys can be drastically different, and it's hard to create a fix-all solution. So, I wanted to come up with something that the users can personalize to themselves. [Read more here!](https://github.com/make-a-mark/dh110/tree/main/Assignment%203)
 
 ## UX Storytelling
-UX storytelling allows for a more personal feel. By understanding the user's perspective, their needs can be more catered to, and they can have a better overall experience. To do this, I created 2 personas, empathy maps, and scenario/journey maps to put myself in the shoes of someone that could potentially utilize my app.
-
-[Read more here!](https://github.com/make-a-mark/dh110/tree/main/Assignment%204)
+UX storytelling allows for a more personal feel. By understanding the user's perspective, their needs can be more catered to, and they can have a better overall experience. To do this, I created 2 personas, empathy maps, and scenario/journey maps to put myself in the shoes of someone that could potentially utilize my app. [Read more here!](https://github.com/make-a-mark/dh110/tree/main/Assignment%204)
 
 <table>
   <tr>
@@ -31,7 +29,28 @@ UX storytelling allows for a more personal feel. By understanding the user's per
   </tr>
 </table>
 
+
+## Low Fidelity Prototype
+The user research I conducted focued on middle-aged males who are interested in music learning. Learning from a [Contextual Inquiry](https://github.com/make-a-mark/dh110/tree/main/Assignment%203) as well as trying to understand from a user's perspective in [user personas and scenarios](https://github.com/make-a-mark/dh110/tree/main/Assignment%204), I was able to get a sense of what features could be included or improved in already-existing music learning apps/resources. One major thing that I wanted to highlight was the idea that there's no one right way to learn music, but I think it's important to have be goal-oriented. So, I thought that being able to have the user pick and choose from a general list of skills that they then would associate to their goals as they see fit would help to fine tune what skills seem to fulfill their goal the most. However, the user can still practice their general skills in order to improve overall as a musician. [Read more here!](https://github.com/make-a-mark/dh110/tree/main/Assignment%205)
+
+![Wireframes + Wireflows](https://github.com/make-a-mark/dh110/blob/main/Assignment%205/Wireframes%20%2B%20Wireflow.JPG)
+
 ## Wireframe and Graphic Design Element Variation
+For the overall graphical interface design, I wanted to have a clean, easy-on-the-eyes look and feel. There are a mix of warm and cool colors, but there's nothing very intrusive or popping out as much. I want the music learning experience to be relaxing and enjoyable, and I thought having something that is easy to stare at can help support that goal. I arrived at these stylistic decisions by comparing different design element variations.[Read more here!](https://github.com/make-a-mark/dh110/tree/main/Assignment%206)
+
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/make-a-mark/dh110/master/Assignment%206/Typography.JPG"></td>
+    <td><img src="https://raw.githubusercontent.com/make-a-mark/dh110/master/Assignment%206/Shape.JPG"></td>
+  </tr>
+</table>
+
+
+## High Fidelity Prototype
+
+## Pitch Video
+
+## Conclusion
 
 ## Schedule
 
