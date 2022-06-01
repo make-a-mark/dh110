@@ -64,7 +64,7 @@ After completing ideation with the low fidelity prototype and making stylistic d
 
 ## Pitch Video
 
-<iframe src="https://drive.google.com/file/d/1mI0zpIfGWttfaPQpLG6bgV588lhwuItf/preview"></iframe>
+<iframe src="https://drive.google.com/file/d/1mI0zpIfGWttfaPQpLG6bgV588lhwuItf/preview" width="800" height="450"> </iframe>
 
 [Watch here!](https://drive.google.com/file/d/1mI0zpIfGWttfaPQpLG6bgV588lhwuItf/view?usp=sharing)
 
