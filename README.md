@@ -26,8 +26,8 @@ UX storytelling allows for a more personal feel. By understanding the user's per
 
 <table>
   <tr>
-    <td><img src="https://github.com/make-a-mark/dh110/blob/main/Assignment%204/guillermo%20persona.jpg"></td>
-    <td><img src="https://github.com/make-a-mark/dh110/blob/main/Assignment%204/aryo%20persona.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/make-a-mark/dh110/master/Assignment%204/guillermo%20persona.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/make-a-mark/dh110/master/Assignment%204/aryo%20persona.jpg"></td>
   </tr>
 </table>
 
