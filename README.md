@@ -33,7 +33,7 @@ UX storytelling allows for a more personal feel. By understanding the user's per
 ## Low Fidelity Prototype
 The user research I conducted focued on middle-aged males who are interested in music learning. Learning from a [Contextual Inquiry](https://github.com/make-a-mark/dh110/tree/main/Assignment%203) as well as trying to understand from a user's perspective in [user personas and scenarios](https://github.com/make-a-mark/dh110/tree/main/Assignment%204), I was able to get a sense of what features could be included or improved in already-existing music learning apps/resources. One major thing that I wanted to highlight was the idea that there's no one right way to learn music, but I think it's important to have be goal-oriented. So, I thought that being able to have the user pick and choose from a general list of skills that they then would associate to their goals as they see fit would help to fine tune what skills seem to fulfill their goal the most. However, the user can still practice their general skills in order to improve overall as a musician. [Read more here!](https://github.com/make-a-mark/dh110/tree/main/Assignment%205)
 
-![Wireframes + Wireflows](https://github.com/make-a-mark/dh110/blob/main/Assignment%205/Wireframes%20%2B%20Wireflow.JPG)
+![Wireframes + Wireflows](https://raw.githubusercontent.com/make-a-mark/dh110/master/Assignment%205/Wireframes%20%2B%20Wireflow.JPG)
 
 ## Wireframe and Graphic Design Element Variation
 For the overall graphical interface design, I wanted to have a clean, easy-on-the-eyes look and feel. There are a mix of warm and cool colors, but there's nothing very intrusive or popping out as much. I want the music learning experience to be relaxing and enjoyable, and I thought having something that is easy to stare at can help support that goal. I arrived at these stylistic decisions by comparing different design element variations.[Read more here!](https://github.com/make-a-mark/dh110/tree/main/Assignment%206)
@@ -47,6 +47,7 @@ For the overall graphical interface design, I wanted to have a clean, easy-on-th
 
 
 ## High Fidelity Prototype
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FRCKmmLJnkKoHWlwSmUGNZe%2FDH-110-Interface-Design-System%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
 ## Pitch Video
 
